@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+arduinobot_py_example/__init__.py
+arduinobot_py_example.egg-info/PKG-INFO
+arduinobot_py_example.egg-info/SOURCES.txt
+arduinobot_py_example.egg-info/dependency_links.txt
+arduinobot_py_example.egg-info/entry_points.txt
+arduinobot_py_example.egg-info/requires.txt
+arduinobot_py_example.egg-info/top_level.txt
+arduinobot_py_example.egg-info/zip-safe
+resource/arduinobot_py_example

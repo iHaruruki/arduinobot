@@ -1,0 +1,23 @@
+[0.815s] Invoking command in '/home/ubuntu/arduinobot_ws/build/arduinobot_py_examples': PYTHONPATH=/home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/build --no-deps symlink_data
+[1.059s] running develop
+[1.228s] running egg_info
+[1.228s] creating arduinobot_py_examples.egg-info
+[1.228s] writing arduinobot_py_examples.egg-info/PKG-INFO
+[1.228s] writing dependency_links to arduinobot_py_examples.egg-info/dependency_links.txt
+[1.228s] writing entry points to arduinobot_py_examples.egg-info/entry_points.txt
+[1.228s] writing requirements to arduinobot_py_examples.egg-info/requires.txt
+[1.228s] writing top-level names to arduinobot_py_examples.egg-info/top_level.txt
+[1.229s] writing manifest file 'arduinobot_py_examples.egg-info/SOURCES.txt'
+[1.229s] reading manifest file 'arduinobot_py_examples.egg-info/SOURCES.txt'
+[1.229s] writing manifest file 'arduinobot_py_examples.egg-info/SOURCES.txt'
+[1.229s] running build_ext
+[1.229s] Creating /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages/arduinobot-py-examples.egg-link (link to .)
+[1.230s] 
+[1.230s] Installed /home/ubuntu/arduinobot_ws/build/arduinobot_py_examples
+[1.230s] running symlink_data
+[1.230s] creating /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/share/ament_index
+[1.231s] creating /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index
+[1.231s] creating /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[1.231s] symbolically linking /home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/resource/arduinobot_py_examples -> /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/share/ament_index/resource_index/packages
+[1.231s] symbolically linking /home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/package.xml -> /home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/share/arduinobot_py_examples
+[1.259s] Invoked command in '/home/ubuntu/arduinobot_ws/build/arduinobot_py_examples' returned '0': PYTHONPATH=/home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ubuntu/arduinobot_ws/install/arduinobot_py_examples/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/ubuntu/arduinobot_ws/build/arduinobot_py_examples/build --no-deps symlink_data
